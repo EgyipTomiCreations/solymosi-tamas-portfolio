@@ -133,7 +133,7 @@ const links = [
     icon: (
       <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
     ),
-    href: "https://github.com/EgyipTomiCreations/EgyipTomiCreations",
+    href: "https://github.com/EgyipTomiCreations",
   },
   {
     title: "Email",

@@ -65,6 +65,8 @@ const FloatingDockMobile = ({
               >
                 <Link
                   href={item.href}
+                  rel="noopener noreferrer"
+                  target="_blank"
                   key={item.title}
                   className="h-10 w-10 rounded-full bg-[rgba(40,40,40,0.70)] flex items-center justify-center"
                 >
