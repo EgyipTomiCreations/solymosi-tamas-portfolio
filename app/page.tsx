@@ -71,8 +71,9 @@ export default function Home() {
               <GridItem
                 area="md:[grid-area:3/1/4/4] lg:[grid-area:1/5/3/7]"
                 title="MozdonyNavigator"
-                description="I developed my MozdonyNavigator application as a personal alternative to the Hungarian State Railways (MÁV) app. I plan to release it publicly in the future. Initially, I built the project using .NET MAUI with a Hybrid Blazor solution. Currently, I am in the process of rewriting it using Avalonia UI."
+                description="I developed my MozdonyNavigator application as a personal alternative to the Hungarian State Railways (MÁV) app. I developed the project using an ASP.NET Core REST API for the backend and a Next.js frontend."
                 gif="/mozdonynavigator.png"
+                href="https://mozdonynavigator.vercel.app"
               />
             </ul>
           </div>
